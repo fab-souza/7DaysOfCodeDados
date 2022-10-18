@@ -5,7 +5,6 @@
 ![Badge code size](https://img.shields.io/github/languages/code-size/fab-souza/7DaysOfCodeDados)
 ![Badge de Atualização](https://img.shields.io/github/last-commit/fab-souza/7DaysOfCodeDados)
 
-
 | :placard: Vitrine.Dev |    |
 | -------------  | --- |
 | :sparkles: Nome        | **#7DaysOfCode - Ciência de Dados**
@@ -13,8 +12,11 @@
 | :rocket: URL         | https://github.com/fab-souza/7DaysOfCodeDados/
 | :fire: Desafio     | [7 Days Of Code](https://7daysofcode.io/matricula/data-science)
 
-![](https://user-images.githubusercontent.com/67301805/196429854-c14b2ec3-d886-4e35-a5af-3c180ad2c073.jpg#vitrinedev)
-
 Desafios propostos no #7DaysOfCode sobre ciência de dados.
 
+![](https://user-images.githubusercontent.com/67301805/196429854-c14b2ec3-d886-4e35-a5af-3c180ad2c073.jpg#vitrinedev)
+
 ## Desafio 1/7: Data Cleaning and Preparation
+
+Baixar um dataset do portal do CEAPS (Cota para Exercício da Atividade Parlamentar dos Senadores) e aplicar processos de tratamento e limpeza de dados.
+
