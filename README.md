@@ -29,7 +29,7 @@ Ao final do tratamento dos dados, gerei uma amostra do dataset final, com regist
 
 
 
-## Desafio 2/7: 
+## Desafio 2/7: Data Visualization & Storytelling
 
 ## Desafio 3/7: 
 
