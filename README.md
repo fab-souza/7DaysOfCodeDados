@@ -25,11 +25,13 @@ Ao final do tratamento dos dados, gerei uma amostra do dataset final, com regist
 ![desafio1](https://user-images.githubusercontent.com/67301805/196568820-104b4574-699b-4d09-a4c3-efc1a205ccdf.jpg)
 
 
-
-
-
-
 ## Desafio 2/7: Data Visualization & Storytelling
+Investigar os dados e gerar visualizações para identificar padrões estranhos ou estatísticas interessantes.
+
+
+
+
+
 
 ## Desafio 3/7: 
 
