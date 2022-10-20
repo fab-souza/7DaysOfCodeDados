@@ -35,6 +35,9 @@ Investigar os dados e gerar visualizações para identificar padrões estranhos 
 
 ## Desafio 3/7: Forecasting
 
+Utilizar técnicas de Machine Learning e ferramentas estatísticas para prever o futuro.
+
+
 ## Desafio 4/7: 
 
 ## Desafio 5/7: 
