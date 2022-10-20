@@ -33,7 +33,7 @@ Investigar os dados e gerar visualizações para identificar padrões estranhos 
 
 
 
-## Desafio 3/7: 
+## Desafio 3/7: Forecasting
 
 ## Desafio 4/7: 
 
