@@ -38,7 +38,15 @@ Investigar os dados e gerar visualizações para identificar padrões estranhos 
 Utilizar técnicas de Machine Learning e ferramentas estatísticas para prever o futuro.
 
 
-## Desafio 4/7: 
+
+
+
+## Desafio 4/7: Sistemas de recomendação
+
+Criar um sistema de recomendações a partir do MovieLens.
+
+
+
 
 ## Desafio 5/7: 
 
