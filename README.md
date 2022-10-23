@@ -48,8 +48,21 @@ Criar um sistema de recomendações a partir do MovieLens.
 
 
 
-## Desafio 5/7: 
 
-## Desafio 6/7: 
+
+## Desafio 5/7: Servindo modelos em API
+
+Criar uma API que irá consumir seu modelo de Machine Learning e receber requisições.
+
+
+
+
+
+## Desafio 6/7: Teste A/B e Testes de Hipótese
+
+Baixar um dataset e executar um teste de hipótese.
+
+
+
 
 ## Desafio 7/7: 
