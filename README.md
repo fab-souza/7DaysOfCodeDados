@@ -65,4 +65,4 @@ Baixar um dataset e executar um teste de hipótese.
 
 
 
-## Desafio 7/7: 
+## Desafio 7/7: Documente e crie seu portfólio
