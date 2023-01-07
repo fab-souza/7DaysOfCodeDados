@@ -33,6 +33,9 @@ Ao final do tratamento dos dados, gerei uma amostra do dataset final, com regist
 ### Desafio 2/7: Data Visualization & Storytelling
 Investigar os dados e gerar visualizações para identificar padrões estranhos ou estatísticas interessantes.
 
+Entre os padrões estranhos, haviam registros de 2002 cadastrados em 2022 e também de datas posteriores à última atualização do CEAPS.
+
+![image](https://user-images.githubusercontent.com/67301805/211164338-665df1e1-1518-41c9-9c58-5d08f198b6c2.png)
 
 
 
