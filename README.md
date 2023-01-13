@@ -45,6 +45,12 @@ Entre os padrões estranhos, haviam registros de 2002 cadastrados em 2022 e tamb
 
 Utilizar técnicas de Machine Learning e ferramentas estatísticas para prever o futuro.
 
+Neste caso, criar um modelo que irá prever quanto os senadores vão gastar nos próximos três meses.
+
+Para fazer este desafio, utilizei o dataset disponibilizado, que é composto por duas colunas: ‘ds’ (datas) e ‘y’ (valor acumulado daquele dia). As datas vão do dia 01/01/2018 até 31/12/2022, acumulando o total de 1461 registros. Para solucionar este desafio, foi apresentada duas opções:
+- usar o [Prophet, do Facebook](https://facebook.github.io/prophet/docs/quick_start.html#python-api);
+- ou usar a [Regressão Linear](https://matheusfacure.github.io/2017/07/19/MQO-sklearn/?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+Ci%C3%AAncia+de+Dados+3%2F7%3A+Forecasting&utm_campaign=%5BAlura+%237Days+Of+Code%5D%28Java%29+Dia+3%2F7%3A+Modelando+um+dom%C3%ADnio), do Scikit Learning.
+
 
 
 
