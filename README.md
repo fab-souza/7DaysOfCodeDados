@@ -51,6 +51,9 @@ Para fazer este desafio, utilizei o dataset disponibilizado, que é composto por
 - usar o [Prophet, do Facebook](https://facebook.github.io/prophet/docs/quick_start.html#python-api);
 - ou usar a [Regressão Linear](https://matheusfacure.github.io/2017/07/19/MQO-sklearn/?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+Ci%C3%AAncia+de+Dados+3%2F7%3A+Forecasting&utm_campaign=%5BAlura+%237Days+Of+Code%5D%28Java%29+Dia+3%2F7%3A+Modelando+um+dom%C3%ADnio), do Scikit Learning.
 
+Com o Prophet, o resultado foi o seguinte:
+
+![image](https://user-images.githubusercontent.com/67301805/212771766-8136d574-1d19-49a3-9b36-f6e0c398e78f.png)
 
 
 
