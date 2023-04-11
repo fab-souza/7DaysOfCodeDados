@@ -61,9 +61,7 @@ Com o Prophet, o resultado foi o seguinte:
 
 ### Desafio 4/7: Sistemas de recomendação
 
-Criar um sistema de recomendações a partir do [MovieLens](https://grouplens.org/datasets/movielens/100k/?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+Ci%C3%AAncia+de+Dados+4%2F7%3A+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Sistemas+de+recomenda%C3%A7%C3%A3o&utm_campaign=%5BAlura+%237Days+Of+Code%5D%28Java%29+Dia+4%2F7%3A+Gerando+o+HTML).
-
-
+Criar um sistema de recomendações a partir do [MovieLens](https://grouplens.org/datasets/movielens/100k/?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+Ci%C3%AAncia+de+Dados+4%2F7%3A+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Sistemas+de+recomenda%C3%A7%C3%A3o&utm_campaign=%5BAlura+%237Days+Of+Code%5D%28Java%29+Dia+4%2F7%3A+Gerando+o+HTML), parecido com o que encontramos em diversas plataformas de música, filmes e séries.
 
 
 
