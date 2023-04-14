@@ -63,6 +63,9 @@ Com o Prophet, o resultado foi o seguinte:
 
 A proposta deste desafio é simples e atual, pois, diante os diversos streams no mercado, devo desenvolver um código que recomende 5 filmes de acordo com o histórico de consumo/avaliação de um usuário, a partir do banco de dados da [MovieLens](https://grouplens.org/datasets/movielens/100k/?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+Ci%C3%AAncia+de+Dados+4%2F7%3A+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Sistemas+de+recomenda%C3%A7%C3%A3o&utm_campaign=%5BAlura+%237Days+Of+Code%5D%28Java%29+Dia+4%2F7%3A+Gerando+o+HTML).
 
+Fiz o upload do notebook aqui, mas ele também está disponível no [Kaggle](https://www.kaggle.com/code/fabianadesouza/7-days-of-code-desafio-4).
+
+
 ---
 
 ### Desafio 5/7: Servindo modelos em API
