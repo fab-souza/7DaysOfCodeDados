@@ -65,6 +65,9 @@ A proposta deste desafio é simples e atual, pois, diante os diversos streams no
 
 Fiz o upload do notebook aqui, mas ele também está disponível no [Kaggle](https://www.kaggle.com/code/fabianadesouza/7-days-of-code-desafio-4).
 
+Ao final, consegui as seguintes recomendações para um novo usuário:
+
+![image](https://user-images.githubusercontent.com/67301805/232234555-ff1f995b-136d-4c16-b4d8-a0a5b82f2f9b.png)
 
 ---
 
