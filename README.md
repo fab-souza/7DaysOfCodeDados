@@ -73,7 +73,7 @@ Ao final, consegui as seguintes recomendações para um novo usuário:
 
 ### Desafio 5/7: Servindo modelos em API
 
-Criar uma API que irá consumir o modelo de recomendação de filmes e receber requisições.
+Criar uma API que irá consumir o modelo de recomendação de filmes, desenvolvido no último desafio, e receber requisições.
 
 
 
