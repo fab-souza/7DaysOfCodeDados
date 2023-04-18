@@ -83,7 +83,7 @@ Criar uma API que irá consumir o modelo de recomendação de filmes, desenvolvi
 
 ### Desafio 6/7: Teste A/B e Testes de Hipótese
 
-Baixar um dataset e executar um teste de hipótese.
+Executar testes de hipótese.
 
 
 
