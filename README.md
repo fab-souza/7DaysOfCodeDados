@@ -85,6 +85,7 @@ Criar uma API que irá consumir o modelo de recomendação de filmes, desenvolvi
 
 Partindo para um outro contexto, neste desafio eu tive que analisar o resultado de um teste A/B de uma página. Verificando se houve maior conversão dos clientes que tiveram acesso à nova página, ou não.
 
+![image](https://user-images.githubusercontent.com/67301805/233478869-84b385b8-00df-45bf-903a-dbbef00b1706.png)
 
 
 
