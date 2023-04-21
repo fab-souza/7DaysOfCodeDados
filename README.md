@@ -3,6 +3,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ![Badge code size](https://img.shields.io/github/languages/code-size/fab-souza/7DaysOfCodeDados)
+![GitHub Org's stars](https://img.shields.io/github/stars/fab-souza/7DaysOfCodeDados?style=social)
 
 
 | :placard: Vitrine.Dev |    |
