@@ -8,9 +8,9 @@
 
 | :placard: Vitrine.Dev |    |
 | -------------  | --- |
-| :sparkles: Nome        | **#7DaysOfCode - Ciência de Dados**
+| :sparkles: Nome        | **7DaysOfCode - Ciência de Dados**
 | :label: Tecnologias | python
-| :rocket: URL         | https://github.com/fab-souza/7DaysOfCodeDados/
+| :rocket: URL         | 
 | :fire: Desafio     | [7 Days Of Code](https://7daysofcode.io/matricula/data-science)
 
 
