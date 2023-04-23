@@ -94,6 +94,7 @@ Partindo para um outro contexto, neste desafio eu tive que analisar o resultado 
 
 ### Desafio 7/7: Documente e crie seu portfólio
 
+E para concluir os desafios, o último é para compartilhar o que desenvolvi nos dias anteriores.
 
 
 
