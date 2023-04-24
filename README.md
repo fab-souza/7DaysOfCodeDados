@@ -90,6 +90,10 @@ Partindo para um outro contexto, neste desafio eu tive que analisar o resultado 
 
 
 
+![image](https://user-images.githubusercontent.com/67301805/234090384-949dc981-f366-411e-b26d-f37b8089394e.png)
+
+
+
 ---
 
 ### Desafio 7/7: Documente e crie seu portfólio
