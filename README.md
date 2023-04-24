@@ -8,7 +8,7 @@
 
 | :placard: Vitrine.Dev |    |
 | -------------  | --- |
-| :sparkles: Nome        | **7DaysOfCode - Ciência de Dados**
+| :sparkles: Nome        | **7 Days Of Code - Ciência de Dados**
 | :label: Tecnologias | python
 | :rocket: URL         | 
 | :fire: Desafio     | [7 Days Of Code](https://7daysofcode.io/matricula/data-science)
