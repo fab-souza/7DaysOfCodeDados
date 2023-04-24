@@ -84,7 +84,7 @@ Criar uma API que irá consumir o modelo de recomendação de filmes, desenvolvi
 
 ### Desafio 6/7: Teste A/B e Testes de Hipótese
 
-Partindo para um outro contexto, neste desafio eu tive que analisar o resultado de um teste A/B de uma página. Verificando se houve maior conversão dos clientes que tiveram acesso à nova página, ou não.
+Partindo para um outro contexto, neste desafio eu tive que analisar o resultado de um teste A/B de uma página. Verificando se houve maior conversão dos clientes que tiveram acesso à nova página, ou não, ao realizar um teste de hipótese.
 
 ![image](https://user-images.githubusercontent.com/67301805/233478869-84b385b8-00df-45bf-903a-dbbef00b1706.png)
 
