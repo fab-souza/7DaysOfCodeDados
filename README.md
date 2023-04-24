@@ -88,10 +88,14 @@ Partindo para um outro contexto, neste desafio eu tive que analisar o resultado 
 
 ![image](https://user-images.githubusercontent.com/67301805/233478869-84b385b8-00df-45bf-903a-dbbef00b1706.png)
 
+A proposta do teste é simples: Verificar se a mudança na página provocou maior conversão de clientes.
+Em que considerei que: 
+- Hipótese nula = a conversão de clientes é igual nas duas páginas (p-valor > 0.05)
+- Hipótese alternativa = uma das páginas teve um melhor desempenho (p-valor < 0.05)
 
+![image](https://user-images.githubusercontent.com/67301805/234096509-1896fca6-ea0c-4bf7-8d16-411e770c37d4.png)
 
-![image](https://user-images.githubusercontent.com/67301805/234090384-949dc981-f366-411e-b26d-f37b8089394e.png)
-
+O retorno da função mostrou que a página nova não apresentou maior conversão do que a versão antiga.
 
 
 ---
