@@ -97,6 +97,8 @@ Em que considerei que:
 
 O retorno da função mostrou que a página nova não apresentou maior conversão do que a versão antiga.
 
+O teste completo também está disponível nesta página no [Kaggle](https://www.kaggle.com/code/fabianadesouza/desafio-6).
+
 
 ---
 
