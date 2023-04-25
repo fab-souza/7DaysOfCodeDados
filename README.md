@@ -17,7 +17,7 @@
 ![](https://user-images.githubusercontent.com/67301805/196429854-c14b2ec3-d886-4e35-a5af-3c180ad2c073.jpg#vitrinedev)
 
 ## Sobre o desafio 📚
-Desafios propostos no #7DaysOfCode sobre ciência de dados.
+Desafios propostos no 7 Days Of Code sobre ciência de dados.
 
 ## Minha prática 👩🏻‍💻
 
